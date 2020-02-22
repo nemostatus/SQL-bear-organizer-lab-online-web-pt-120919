@@ -13,3 +13,4 @@ INSERT INTO bears(name,age,gender,color,temperament,alive) VALUES
 INSERT INTO bears(name,age,gender,color,temperament,alive) VALUES
 ("Wendy","female","black","fierce",1)
 INSERT INTO bears(name,age,gender,color,temperament,alive)
+(NULL,"female","black","fierce",NULL)
