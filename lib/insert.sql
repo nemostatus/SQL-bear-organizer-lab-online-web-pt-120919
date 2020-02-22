@@ -3,7 +3,7 @@ INSERT INTO bears(name,age,gender,color,temperament,alive) VALUE
 INSERT INTO bears(name,age,gender,color,temperament,alive) VALUES
 ("Rowdy",1,"male","black","fierce",1);
 INSERT INTO bears(name,age,gender,color,temperament,alive) VALUES
-("Tabitha",3,"female","white")
+("Tabitha",3,"female","white","calm",)
 INSERT INTO bears(name,age,gender,color,temperament,alive) VALUES
 ("Sergeant Brown")
 INSERT INTO bears(name,age,gender,color,temperament,alive) VALUES
